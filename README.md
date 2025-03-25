@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MLARIOSS
 - 👀 I’m interested in ...Learning a new thing everyday
-- 🌱 I’m currently Completed ...Software Development
+- 🌱 I’m currently Completed ...Full stack Software Developer 
 - 💞️ I’m looking to collaborate on ...Developing new initiatives
 - 📫 How to reach me ...MLARIOSS
 - 😄 Pronouns: ...she/her
