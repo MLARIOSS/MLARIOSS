@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @MLARIOSS
 - 👀 I’m interested in ...Learning a new thing everyday
-- 🌱 I’m currently learning ...Software Development, completely new to it
+- 🌱 I’m currently Completed ...Software Development
 - 💞️ I’m looking to collaborate on ...Developing new initiatives
-- 📫 How to reach me ...Slack Channel
+- 📫 How to reach me ...MLARIOSS
 - 😄 Pronouns: ...she/her
-- ⚡ Fun fact: ...I love to spend time with family
+- ⚡ Fun fact: ...I love to spend time with family!
 
 <!---
 MLARIOSS/MLARIOSS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
